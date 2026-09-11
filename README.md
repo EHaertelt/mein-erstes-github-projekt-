@@ -11,3 +11,10 @@ Klasse:24-IT5
 - GitHub verstehen 
 - Dateien bearbeiten 
 - Mit anderen zusammenarbeiten 
+## Mein Lieblingsfach 
+ 
+Mein Lieblingsfach ist: Test
+ 
+## Mein Ziel 
+ 
+Ich möchte mit GitHub lernen, wie man gemeinsam an Projekten arbeitet. 
